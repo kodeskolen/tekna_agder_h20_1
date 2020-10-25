@@ -6,8 +6,7 @@ Dette repositoriet er ment for deling av kursmateriale for *Introduksjonskurs i 
 
 ## Materiale
 ### Kompendium
-Kompendiet for kurset finner du [her
-](kompendium.pdf). Dette kompendiet er laget for et større kurs på universitetet, og dekker dermed alt vi går igjennom i dette kurset og litt mer. Kompendiet er altså en fin ressurs for å lære mer programmering på egenhånd.
+Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget for et større kurs på universitetet, og dekker dermed alt vi går igjennom i dette kurset og litt mer. Kompendiet er altså en fin ressurs for å lære mer programmering på egenhånd.
 
 ### Dag 1
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
