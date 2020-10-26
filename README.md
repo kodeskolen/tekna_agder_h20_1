@@ -6,8 +6,7 @@ Dette repositoriet er ment for deling av kursmateriale for *Introduksjonskurs i 
 
 ## Materiale
 ### Kompendium
-Kompendiet for kurset finner du [her
-](kompendium.pdf). Dette kompendiet er laget for et større kurs på universitetet, og dekker dermed alt vi går igjennom i dette kurset og litt mer. Kompendiet er altså en fin ressurs for å lære mer programmering på egenhånd.
+Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget for kurset [STKD6700 Introduction to Programming I](https://student.oslomet.no/studier/-/studieinfo/emne/STKD6700/2020/H%C3%98ST), og dekker dermed alt vi går igjennom i dette kurset og litt mer. Kompendiet er altså en fin ressurs både for å slå opp temaer vi går igjennom i dette kurset og for å lære mer programmering på egenhånd.
 
 ### Dag 1
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
@@ -33,18 +32,3 @@ En gratis e-bok for deg som kan grunnleggende Python, og vil lære hvordan du ka
 
 [Introduksjonsbok for vitenskapelig programmering i Python](https://link.springer.com/book/10.1007/978-3-030-50356-7)
 En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser", som er et introduksjonsemne i Python programmering ved UiO.
-
-[Oppgavesamling i fysikk](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20fysikk.pdf)
-Disse oppgavene er laget som et supplement til "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser". Det er Fysisk Institutt som står bak oppgavesettet og ideen bak det var å lage en samling fysikkrelaterte oppgaver. Oppgavesettet kan derfor være en fin kilde til inspirasjon for fysikkrelevante programmeringsoppgaver.
-
-[Oppgavesamling i kjemi](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20kjemi.pdf)
-Disse oppgavene er laget som et supplement til introduksjonsemne i python programmering ved UiO. Oppgavene er laget for å gi kjemistudenter ved UiO relevante eksempler som kombinerer programmering og kjemi. Oppgavesettet kan derfor være en fin kilde til inspirasjon for kjemirelevante programmeringsoppgaver.
-
-[Oppgavesamling i geo](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20i%20geo.pdf)
-Denne oppgavesamlingen inneholder programmeringsoppgaver i Python som er relevante for geofagstudenter ved UiO
-
-[Oppgavesamling fra Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Oppgavesamling%20fra%20Langtangen.pdf)
-Oppgavesamling fra “A Primer on Scientific Programming with Python” av H. P. Langtangen. Boken brukes som lærebok i "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser" som er et introduksjonsemne i python programmering ved UiO. Oppgavesettet inneholder grunnleggende programmeringsoppgaver med naturvitenskapelige anvedelser. Koden i boka er for Python 2.7, men oppgavene kan løses med Python 3.
-
-[Ekstra oppgavesamling til Langtangen](https://github.com/kodeskolen/vgs/blob/master/Oppgavesamlinger/Ekstraoppgaver%20til%20Langtangen.pdf)
-En samling supplementerende oppgaver for Langtangens bok.
