@@ -5,8 +5,10 @@
 Dette repositoriet er ment for deling av kursmateriale for *Introduksjonskurs i Python-programmering*, som arrangeres av [Tekna](https://www.tekna.no) og [Kodeskolen](https://simulakodeskolen.no/). Materialer vil legges ut etterhvert som kurset går, kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
 
 ## Materiale
-### Kompendium
+### Kompendium og jukselapp
 Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget for kurset [STKD6700 Introduction to Programming I](https://student.oslomet.no/studier/-/studieinfo/emne/STKD6700/2020/H%C3%98ST), og dekker dermed alt vi går igjennom i dette kurset og litt mer. Kompendiet er altså en fin ressurs både for å slå opp temaer vi går igjennom i dette kurset og for å lære mer programmering på egenhånd.
+
+Vi har også laget en jukselapp, som inneholder noe av de viktigste konseptene fra kursdag 1, den kan dere finne [her](kodeskolens_jukselapp.pdf).
 
 ### Dag 1
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
@@ -20,7 +22,7 @@ I løpet av kurset vil vi ha flere oppgaveøkter. Her vil du ha muligheten til �
 
 
 ## Ekstra Ressurser:
-Her har vi samlet et knippe resurser som kan være nyttige for ekstra trening.
+Vi har laget en [ressursguide](ressursguide.md) som du kan se på for å finne gode læringsressurser sortert etter tema. Ressursguiden kan gi deg et startpunkt for å lære alt fra dataanalyse til webutvikling! Ressursguiden finner du [her](ressursguide.md). I tillegg vil vi trekke frem disse tre bøkene, de er alle gratis i digital utgave.
 
 [Automate the boring stuff with Python](https://automatetheboringstuff.com)
 En gratis e-bok som du kan bruke for å lære grunnleggende Python programmering og automatisere deler av hverdagen din. Boken er utrolig populær og fortusetter ingen programmeringsferdigheter på forhånd.
