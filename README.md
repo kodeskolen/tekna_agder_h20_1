@@ -12,7 +12,9 @@ Vi har også laget en jukselapp, som inneholder noe av de viktigste konseptene f
 
 ### Dag 1
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
+* Løsningsforslag for oppgavene finner du [her](dag1/oppgaver_dag1_losningsforslag.pdf)
 * Bonusoppgaver for dag 1 finner du [her](dag1/bonusoppgaver_dag1.pdf)
+* Løsningsforslag for bonusoppgavene finner du [her](dag1/bonusoppgaver_dag1_losningsforslag.pdf)
 * Koden vi skrev på dag 1 finner du [her](dag1/live_koding)
 
 ## Kursets innhold:
