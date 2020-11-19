@@ -1,5 +1,5 @@
 
-# Nettkurs: Programmering for lærere
+# Nettkurs: Introduksjon til programmering i Python
 
 ## Hva er dette repositoriet?
 Dette repositoriet er ment for deling av kursmateriale for *Introduksjonskurs i Python-programmering*, som arrangeres av [Tekna](https://www.tekna.no) og [Kodeskolen](https://simulakodeskolen.no/). Materialer vil legges ut etterhvert som kurset går, kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
@@ -32,8 +32,8 @@ Kurset vil passe for deg som har lite eller ingen programmeringserfaring fra fø
 I løpet av kurset vil vi ha flere oppgaveøkter. Her vil du ha muligheten til å lage dine egne dataprogram for å løse små oppgaver og du kan få hjelp av en av våre flinke undervisere om du står fast.
 
 
-## Ekstra Ressurser:
-Vi har laget en [ressursguide](ressursguide.md) som du kan se på for å finne gode læringsressurser sortert etter tema. Ressursguiden kan gi deg et startpunkt for å lære alt fra dataanalyse til webutvikling! Ressursguiden finner du [her](ressursguide.md). I tillegg vil vi trekke frem disse tre bøkene, de er alle gratis i digital utgave.
+## Ekstra ressurser:
+Vi har laget en [ressursguide](ressursguide.md) som du kan se på for å finne gode læringsressurser sortert etter tema. Ressursguiden kan gi deg et startpunkt for å lære alt fra dataanalyse til webutvikling! Ressursguiden finner du [her](ressursguide.md). Spesielt vil vi trekke frem disse fire bøkene, de er alle gratis i digital utgave.
 
 [Automate the boring stuff with Python](https://automatetheboringstuff.com)
 En gratis e-bok som du kan bruke for å lære grunnleggende Python programmering og automatisere deler av hverdagen din. Boken er utrolig populær og fortusetter ingen programmeringsferdigheter på forhånd.
@@ -42,7 +42,7 @@ En gratis e-bok som du kan bruke for å lære grunnleggende Python programmering
 En gratis e-bok for deg som allerede kan programmere i et annet språk, men vil lære deg Python.
 
 [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-En gratis e-bok for deg som kan grunnleggende Python, og vil lære hvordan du kan bruke Python for dataanalyse og maskinlæring.
+En gratis e-bok for deg som kan grunnleggende Python, og vil lære hvordan du kan bruke Python for dataanalyse, maskinlæring og visualisering.
 
 [Introduksjonsbok for vitenskapelig programmering i Python](https://link.springer.com/book/10.1007/978-3-030-50356-7)
 En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser", som er et introduksjonsemne i Python programmering ved UiO.

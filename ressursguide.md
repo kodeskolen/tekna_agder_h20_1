@@ -2,13 +2,10 @@
 
 Nå kan du det mest grunnleggende innen Python-programmering og du kan faktisk løse utrolig mange problem kun med de konseptene du lærte i kurset. Det finnes mange gode ressurser for egenlæring der ute, men det kan være vanskelig å vite hvor man skal starte. Derfor har vi samlet noen guider vi synes er gode og sortert dem etter hva du ønsker å gå videre med.
 
-
-
 Noen av disse guidene bruker funksjonalitet som ikke følger med Anaconda. Da står det gjerne at du skal starte opp et terminalvindu og skrive `pip install PAKKENAVN`. Hvis du skal gjøre dette med Windows, så starter du opp programmet *Anaconda Prompt* og skriver kommandoene inn der.
 
 
-
-## Mer avansert Python funksjonalitet:
+## Mer avansert Python-funksjonalitet:
 
 Det er to grunnstener i Python som vi ikke fikk dekt i kurset: Funksjoner og oppslagsverk. Du trenger ikke  nødvendigvis disse verktøyene, men det kan ofte gjøre jobben din enklere som en programmerer. Hvis du har lyst til å få en innføring i disse konseptene anbefales følgende:
 
@@ -53,3 +50,12 @@ Et annet område hvor Python seirer er backend webutvikling, altså for den kode
 
 * Webservere i Flask: [Guide på Miguel Grinberg sin blog](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * Datavisualiserings-dasboard med PlotLy Dash: [Guide på prosjektet sine sider](https://dash.plotly.com/)
+
+
+## Programmering for vitenskapelig programmering
+
+Programmering har også utviklet seg hånd i hånd med forskning og naturvitenskap. Ved å kombinere matematikk med programmering, kan man løse mange problemer som ellers enten ville vært umulige, eller tatt veldig, veldig lang tid. Disse lenkene kan være nyttige hvis dere vil se mer på dette området:
+
+* Intro til vitenskapelig programmering – pensum i faget IN1900 - Introduksjon i programmering for vitenskapelige anvendelser på UiO: [Introduksjonsbok for vitenskapelig programmering i Python](https://link.springer.com/book/10.1007/978-3-030-50356-7) 
+* Oppgavesamling for kurset IN1900: [Exercises for IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/h20/oppgaver/oppgaveheftein1900.pdf)
+* Masse matematikkoppgaver som lettest løses ved hjelp av programmering (enten Python eller andre språk): [Project Euler](https://projecteuler.net/)
